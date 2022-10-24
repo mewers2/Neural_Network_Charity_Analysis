@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # Adding Resources/ folder, data file
-Resources/
+Resources/charity_data.csv
 
 # Adding checkpoints/ folders
 checkpoints/

@@ -3,3 +3,9 @@
 
 # Adding Resources/ folder, data file
 Resources/
+
+# Adding checkpoints/ folders
+checkpoints/
+checkpoints1/
+checkpoints2/
+checkpoints3/
